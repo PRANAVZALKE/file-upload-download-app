@@ -1,0 +1,10 @@
+# Don't push uploaded files
+uploads/
+
+# Don't push python cache
+__pycache__/
+*.pyc
+
+# Don't push environment files
+.env
+venv/
